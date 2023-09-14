@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Katze&#39;s blog</title>
-        <link>https://0xkatze.github.io/</link>
-        <description>About LoveIt Theme</description>
+        <title>Windows - Tag - Katze&#39;s blog</title>
+        <link>https://0xkatze.github.io/tags/windows/</link>
+        <description>Windows - Tag - Katze&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>katzeema1119@gmail.com (0xkatze)</managingEditor>
-            <webMaster>katzeema1119@gmail.com (0xkatze)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Aug 2023 21:15:32 &#43;0800</lastBuildDate>
-            <atom:link href="https://0xkatze.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>katzeema1119@gmail.com (0xkatze)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Aug 2023 21:15:32 &#43;0800</lastBuildDate><atom:link href="https://0xkatze.github.io/tags/windows/" rel="self" type="application/rss+xml" /><item>
     <title>PE 文件分析</title>
     <link>https://0xkatze.github.io/pe-file-format/</link>
     <pubDate>Sun, 27 Aug 2023 21:15:32 &#43;0800</pubDate>

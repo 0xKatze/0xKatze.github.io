@@ -2,7 +2,7 @@
 title: "PE 文件分析"
 subtitle: ""
 date: 2023-08-27T21:15:32+08:00
-draft: true
+draft: false
 tags: [Reverse, PE, Windows, Note]
 categories: [Reverse]
 
@@ -540,17 +540,17 @@ typedef struct _IMAGE_EXPORT_DIRECTORY {
 ---
 
 ## Credit
-[【逆向】【PE入门】使用PEView分析PE文件](https://blog.csdn.net/qq_43633973/article/details/102378477)
-[x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
-[AT&T Assembly Syntax [ AT&T 汇编语法 ]翻译](https://www.jianshu.com/p/74d54c9d818d)
-[Malware Analysis Tutorial 8: PE Header and Export Table](https://www.cnblogs.com/shangdawei/p/4785494.html)
-[導出表](https://learn.microsoft.com/zh-cn/cpp/build/exporting-from-a-dll?view=msvc-170)
-[01 play with format](https://lief-project.github.io/doc/stable/tutorials/01_play_with_formats.html)
-[winnt.h header](https://learn.microsoft.com/en-us/windows/win32/api/winnt/)
-[Where is PE loader in WINDOWS](https://security.stackexchange.com/questions/24785/where-is-the-pe-loader-in-windows)
-[學習成為人體 PE Parser](/FC_V7Ye2QCSvQOvoqm5wkw)
-[IAT 表](https://www.cnblogs.com/mhpcuit/p/13049764.html)
-[PE loader IAT 加載順序](https://ithelp.ithome.com.tw/articles/10297321)
-[Exciting Journey Towards Import Address Table (IAT) of an Executable](https://tech-zealots.com/malware-analysis/journey-towards-import-address-table-of-an-executable-file/)
-[IAT HOOK](https://www.ired.team/offensive-security/code-injection-process-injection/import-adress-table-iat-hooking)
-[MSDN COMPLETE GUIDE](https://learn.microsoft.com/en-us/previous-versions/ms809762(v=msdn.10)?redirectedfrom=MSDN)
+- [【逆向】【PE入门】使用PEView分析PE文件](https://blog.csdn.net/qq_43633973/article/details/102378477)
+- [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
+- [AT&T Assembly Syntax [ AT&T 汇编语法 ]翻译](https://www.jianshu.com/p/74d54c9d818d)
+- [Malware Analysis Tutorial 8: PE Header and Export Table](https://www.cnblogs.com/shangdawei/p/4785494.html)
+- [導出表](https://learn.microsoft.com/zh-cn/cpp/build/exporting-from-a-dll?view=msvc-170)
+- [01 play with format](https://lief-project.github.io/doc/stable/tutorials/01_play_with_formats.html)
+- [winnt.h header](https://learn.microsoft.com/en-us/windows/win32/api/winnt/)
+- [Where is PE loader in WINDOWS](https://security.stackexchange.com/questions/24785/where-is-the-pe-loader-in-windows)
+- [學習成為人體 PE Parser](/FC_V7Ye2QCSvQOvoqm5wkw)
+- [IAT 表](https://www.cnblogs.com/mhpcuit/p/13049764.html)
+- [PE loader IAT 加載順序](https://ithelp.ithome.com.tw/articles/10297321)
+- [Exciting Journey Towards Import Address Table (IAT) of an Executable](https://tech-zealots.com/malware-analysis/journey-towards-import-address-table-of-an-executable-file/)
+- [IAT HOOK](https://www.ired.team/offensive-security/code-injection-process-injection/import-adress-table-iat-hooking)
+- [MSDN COMPLETE GUIDE](https://learn.microsoft.com/en-us/previous-versions/ms809762(v=msdn.10)?redirectedfrom=MSDN)

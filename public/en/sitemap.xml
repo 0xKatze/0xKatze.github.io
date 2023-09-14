@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://0xkatze.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://0xkatze.github.io/categories/</loc><lastmod>2023-09-14T16:05:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://0xkatze.github.io/zh-cn/categories/"
@@ -15,7 +15,7 @@
                     hreflang="en"
                     href="https://0xkatze.github.io/categories/"
                     /></url><url>
-            <loc>https://0xkatze.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://0xkatze.github.io/</loc><lastmod>2023-09-14T16:05:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://0xkatze.github.io/zh-cn/"
@@ -28,7 +28,13 @@
                     hreflang="en"
                     href="https://0xkatze.github.io/"
                     /></url><url>
-            <loc>https://0xkatze.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://0xkatze.github.io/tags/note/</loc><lastmod>2023-09-14T16:05:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://0xkatze.github.io/tags/pe/</loc><lastmod>2023-09-14T16:05:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://0xkatze.github.io/pe-file-format/</loc><lastmod>2023-09-14T16:05:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://0xkatze.github.io/posts/</loc><lastmod>2023-09-14T16:05:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://0xkatze.github.io/tags/reverse/</loc><lastmod>2023-09-14T16:05:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://0xkatze.github.io/categories/reverse/</loc><lastmod>2023-09-14T16:05:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://0xkatze.github.io/tags/</loc><lastmod>2023-09-14T16:05:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://0xkatze.github.io/zh-cn/tags/"
@@ -40,4 +46,5 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://0xkatze.github.io/tags/"
-                    /></url></urlset>
+                    /></url><url>
+            <loc>https://0xkatze.github.io/tags/windows/</loc><lastmod>2023-09-14T16:05:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

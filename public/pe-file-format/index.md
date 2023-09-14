@@ -1,56 +1,5 @@
----
-title: "PE 文件分析"
-subtitle: ""
-date: 2023-08-27T21:15:32+08:00
-draft: false
-tags: [Reverse, PE, Windows, Note]
-categories: [Reverse]
+# PE 文件分析
 
-featuredImage: ""
-featuredImagePreview: ""
-hiddenFromHomePage: false
-hiddenFromSearch: false
-twemoji: false
-lightgallery: true
-ruby: true
-fraction: true
-fontawesome: true
-linkToMarkdown: true
-rssFullText: false
-
-toc:
-  enable: true
-  auto: true
-code:
-  copy: true
-  # ...
-math:
-  enable: true
-  # ...
-mapbox:
-  accessToken: ""
-  # ...
-share:
-  enable: true
-  # ...
-comment:
-  enable: true
-  # ...
-library:
-  css:
-    # someCSS = "some.css"
-    # 位于 "assets/"
-    # 或者
-    # someCSS = "https://cdn.example.com/some.css"
-  js:
-    # someJS = "some.js"
-    # 位于 "assets/"
-    # 或者
-    # someJS = "https://cdn.example.com/some.js"
-seo:
-  images: []
-  # ...
----
 
 # 分析 Portable Executable (PE) 程序
 
@@ -549,8 +498,9 @@ typedef struct _IMAGE_EXPORT_DIRECTORY {
 - [winnt.h header](https://learn.microsoft.com/en-us/windows/win32/api/winnt/)
 - [Where is PE loader in WINDOWS](https://security.stackexchange.com/questions/24785/where-is-the-pe-loader-in-windows)
 - [學習成為人體 PE Parser](/FC_V7Ye2QCSvQOvoqm5wkw)
-- [IAT 表](https://www.cnblogs.com/mhpcuit/p/13049764.html) 
+- [IAT 表](https://www.cnblogs.com/mhpcuit/p/13049764.html)
 - [PE loader IAT 加載順序](https://ithelp.ithome.com.tw/articles/10297321)
 - [Exciting Journey Towards Import Address Table (IAT) of an Executable](https://tech-zealots.com/malware-analysis/journey-towards-import-address-table-of-an-executable-file/)
 - [IAT HOOK](https://www.ired.team/offensive-security/code-injection-process-injection/import-adress-table-iat-hooking)
 - [MSDN COMPLETE GUIDE](https://learn.microsoft.com/en-us/previous-versions/ms809762(v=msdn.10)?redirectedfrom=MSDN)
+
